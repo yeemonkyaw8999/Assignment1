@@ -1,0 +1,121 @@
+.b1
+{
+    color:white;
+    background-color: aqua;
+    border-radius: 10px;
+    border-color:aqua;
+}
+.b2
+{
+
+    color:white;
+    background-color: grey;
+    border-radius: 10px;
+    border-color:grey;
+}
+.b3
+{
+    color:white;
+    background-color: red;
+    border-radius: 10px;
+    border-color:red;
+}
+.b4
+{
+    color:white;
+    background-color: darkblue;
+    border-radius: 5px;
+    border-color:darkblue;
+}
+.b5
+{
+    color:white;
+    background-color:darkmagenta;
+    border-radius: 3px;
+    border-color:darkmagenta;
+}
+
+.b6
+{
+    color:white;
+    background-color:darkturquoise;
+    border-radius: 3px;
+    border-color:darkturquoise;
+}
+.b7
+{
+
+    color:white;
+    background-color: pink;
+    border-radius: 4px;
+    border-color:pink;
+}
+.b8
+{
+    color:white;
+    background-color: darkslateblue;
+    border-radius: 3px;
+    border-color:darkslateblue;
+}
+.b9
+{
+    color:white;
+    background-color: darkblue;
+    border-radius: 3px;
+    border-color:darkblue;
+}
+.b10
+{
+    color:white;
+    background-color:violet;
+    border-top:2px dashed green;
+    border-bottom:2px dashed green;
+    border-left:2px dashed green;
+    border-right:2px dashed green;
+    border-radius: 3px;
+
+}
+.b11
+{
+    color:white;
+    background-color: blueviolet;
+    border-radius: 30px;
+    border-color:rgb(138, 112, 163);
+}
+.b12
+{
+    color:white;
+    background-color: brown;
+    border-radius: 3px;
+    border-color:brown;
+}
+.b13
+{
+    color:white;
+    background-color:green;
+    border-radius: 3px;
+    border-color:green;
+}
+
+b14
+{
+    color:white;
+    background-color: red;
+    border-radius: 3px;
+    border-color:red;
+}
+.b15
+{
+    color:white;
+    background-color: yellow;
+    border-radius: 3px;
+    border-color:yellow;
+}
+.b16
+{
+    color:white;
+    background-color:yellowgreen;
+    border-radius: 3px;
+    border-color:yellowgreen;
+}
+
